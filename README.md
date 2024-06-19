@@ -75,7 +75,8 @@ Techtube is an innovative e-learning platform designed to bridge the gap between
     │   ├── teachers.php
     │   ├── tutor_profile.php
     │   ├── update.php
-    │   └── watch_video.php
+    │   ├── watch_video.php
+    │   └── course_db.sql
 
 ## Setup Instructions
 ### 1.Download and Install the XAMPP server
