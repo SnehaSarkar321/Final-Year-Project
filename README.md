@@ -102,6 +102,6 @@ Techtube is an innovative e-learning platform designed to bridge the gap between
 2.If everything is set up correctly, you should see the homepage of your PHP application. From there, you can navigate through the different pages of the application, interact with its features, and run its programs or scripts as intended.
 
 ## Contributors
-- [![Kunal Kesh](https://avatars.githubusercontent.com/u/92449874?s=400&u=5960734335b247519505fc9583301740319e9c44&v=4?size=50) [Kunal Kesh](https://github.com/KunalKesh)
-- [![Sneha Sarkar](https://avatars.githubusercontent.com/u/129683308?s=400&u=62cc8829cc3a256bce63c0861b5f7383edfade21&v=4?size=50) [Sneha Sarkar](https://github.com/SnehaSarkar321)
+- [![Kunal Kesh](https://github.com/KunalKesh.png?size=50)](https://github.com/KunalKesh) [Kunal Kesh](https://github.com/KunalKesh)
+- [![Sneha Sarkar](https://github.com/SnehaSarkar321.png?size=50)](https://github.com/SnehaSarkar321) [Sneha Sarkar](https://github.com/SnehaSarkar321)
 
