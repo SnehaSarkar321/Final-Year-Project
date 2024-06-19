@@ -23,6 +23,7 @@ Techtube is an innovative e-learning platform designed to bridge the gap between
     │   └── Techtube Presentation.pptx
     │
     ├── Source Code
+    │   ├── Info.txt
     │   ├── admin
     │   │   ├── add_content.php
     │   │   ├── add_playlist.php
@@ -105,4 +106,5 @@ Techtube is an innovative e-learning platform designed to bridge the gap between
 ## Contributors
 - [![Kunal Kesh](https://github.com/KunalKesh.png?size=50)](https://github.com/KunalKesh) [Kunal Kesh](https://github.com/KunalKesh)
 - [![Sneha Sarkar](https://github.com/SnehaSarkar321.png?size=50)](https://github.com/SnehaSarkar321) [Sneha Sarkar](https://github.com/SnehaSarkar321)
+- [![Roumodip Das](https://github.com/roumodip.png?size=50)](https://github.com/roumodip) [Roumodip Das](https://github.com/roumodip)
 
